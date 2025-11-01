@@ -1,0 +1,12 @@
+/node_modules
+config/token.json
+data_static/name_input_corpus.json
+data_static/tips_input_corpus.json
+data/db.db
+
+# currently unused
+data_static/homeworld_input_corpus.json
+data_static/freaky_homeworld_input_corpus.json
+data_static/signature_laugh_input_corpus.json
+data_static/catchphrase_input_corpus.json
+/js/economy.js
