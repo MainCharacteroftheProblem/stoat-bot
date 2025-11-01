@@ -1,6 +1,6 @@
 # stoat-bot
 
-Simple javascript stoat.chat bot, featuring:
+Simple javascript [stoat.chat](https://stoat.chat) bot, featuring:
 
 Markov-based name generation, inspired by, and using some corpus data from, ivysly's [hmmmmmm bot](https://ivysly.com/misc/bots.html) (outdated repos [here](https://github.com/uzkbwza/discord-bot) and [here](https://github.com/uzkbwza/namer))
 
