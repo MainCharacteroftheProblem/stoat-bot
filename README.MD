@@ -12,7 +12,7 @@ Markov-based tip generation
 
 In `/config/`, you'll need to create a `token.json` file, following the format of `config.json`. Include two values: ```bot_token``` (your bot token) and ```dev_id``` (your user id). 
 
-In `/data_static/`, you'll need to create two files: `name_input_corpus.json` and `tips_input_corpus`. Follow the format provided by `EXAMPLE_input_corpus.json`.
+In `/data_static/`, you'll need to create two files: `name_input_corpus.json` and `tips_input_corpus.json`. Follow the format provided by `EXAMPLE_input_corpus.json`.
 
 ## Running the bot
 
