@@ -1,0 +1,5 @@
+{
+    "prefix": ".",
+    "connectBotToStoat": true,
+    "maxMessagesThatCanBeStoredBot": 1000
+}
