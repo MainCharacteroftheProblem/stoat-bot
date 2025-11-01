@@ -2,11 +2,11 @@
 
 Simple javascript [stoat.chat](https://stoat.chat) bot, featuring:
 
-Markov-based name generation, inspired by, and using some corpus data from, ivysly's [hmmmmmm bot](https://ivysly.com/misc/bots.html) (outdated repos [here](https://github.com/uzkbwza/discord-bot) and [here](https://github.com/uzkbwza/namer))
+- Markov-based name generation, inspired by, and using some corpus data from, ivysly's [hmmmmmm bot](https://ivysly.com/misc/bots.html) (outdated repos [here](https://github.com/uzkbwza/discord-bot) and [here](https://github.com/uzkbwza/namer))
 
-Markov-based message generation, inspired by [nMarkov](https://nmarkov.xyz/)
+- Markov-based message generation, inspired by [nMarkov](https://nmarkov.xyz/)
 
-Markov-based tip generation
+- Markov-based tip generation
 
 ## Setting up
 
